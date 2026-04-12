@@ -35,8 +35,8 @@ FROM php:8.4.19-apache
 COPY index.php /var/www/html/
 ```
 
-index.phpが肝になりますが、変数AとBを比較して、長さは違うけど、内容が一緒であればフラグが出てきそうです。
-PHPのいわゆる `緩やかな比較` を利用したら、 `0` と `00` が一緒になるので、後段の条件文意に進めると思います。
+index.phpが肝になりますが、変数AとBを比較して、長さが異なり、内容が一緒であればフラグが出てきそうです。
+PHPのいわゆる `緩やかな比較` を利用したら、 `0` と `00` が一緒になるので、後段の条件分岐に進めると思います。
 
 ```php
 <?php
@@ -100,5 +100,6 @@ docker compose up -d
 ![Impossible Puzzle 002](/images/2bd0e29bcdae1b/002.png)
 
 alpacahack上で仮想環境を立ち上げて、接続して同じことを実行します。
+無事フラグ取れました。
 
 ![Impossible Puzzle 003](/images/2bd0e29bcdae1b/003.png)
