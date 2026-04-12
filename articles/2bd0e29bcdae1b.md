@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "[writeup]Impossible Puzzle"
 emoji: "🐡"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["CTF", "PHP"]
