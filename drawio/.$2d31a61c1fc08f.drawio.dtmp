@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
   <diagram name="ページ1" id="GjZo90brudu2hmBKb5_u">
-    <mxGraphModel dx="4395" dy="-503" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5590" dy="193" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ow3CCuLILicRaqfInxC6-15" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-2196" y="1517" width="560" height="833" as="geometry" />
+          <mxGeometry x="-2200" y="1525" width="560" height="684" as="geometry" />
         </mxCell>
         <mxCell id="ow3CCuLILicRaqfInxC6-1" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-2990" y="1517" width="560" height="1094" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="-2630" y="1526" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ow3CCuLILicRaqfInxC6-14" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-2166" y="1596.66" width="500" height="729.34" as="geometry" />
+          <mxGeometry x="-2166" y="1596.66" width="500" height="588.34" as="geometry" />
         </mxCell>
         <mxCell id="ow3CCuLILicRaqfInxC6-13" value="親組織: takidemdev.net" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-2166" y="1596.66" width="230" height="40" as="geometry" />
@@ -209,7 +209,7 @@
           <mxGeometry x="-2740" y="2222" width="122" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sBwbmE5TXi99lXOVGl1I-44" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2128.63" y="1962" width="440" height="349" as="geometry" />
+          <mxGeometry x="-2128.63" y="1962" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="sBwbmE5TXi99lXOVGl1I-45" value="SAML プロファイル(Entra ID)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-2128.63" y="1962" width="257" height="34" as="geometry" />
@@ -244,6 +244,14 @@
             <Array as="points">
               <mxPoint x="-2268" y="2237" />
               <mxPoint x="-2268" y="2097" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sBwbmE5TXi99lXOVGl1I-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ow3CCuLILicRaqfInxC6-16" target="sBwbmE5TXi99lXOVGl1I-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1652" y="1774" />
+              <mxPoint x="-1652" y="2062" />
             </Array>
           </mxGeometry>
         </mxCell>
